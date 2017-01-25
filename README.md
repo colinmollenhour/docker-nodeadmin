@@ -1,7 +1,7 @@
 Dockerfile for NodeAdmin
 ------------------------
 
-This is a simple Docker image for running (NodeAdmin)[https://github.com/nodeadmin/nodeadmin].
+This is a simple Docker image for running [NodeAdmin](https://github.com/nodeadmin/nodeadmin).
 
 ### Usage:
 
