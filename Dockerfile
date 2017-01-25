@@ -1,0 +1,5 @@
+FROM node:6-onbuild
+
+ENV PORT=4040
+
+EXPOSE 4040
